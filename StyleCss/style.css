@@ -1,0 +1,63 @@
+
+
+body {
+    text-align: center; 
+    font-family: 'Roboto', sans-serif; 
+    font-size: 21px; 
+    margin: 0; 
+}
+
+.container {
+    width: 570px; 
+    margin: 0 auto; 
+    text-align: left; 
+}
+
+h1 {
+    font-size: 80px; 
+    line-height: 1.2; 
+    font-weight: normal; 
+}
+
+h1 span {
+    font-weight: bold; 
+}
+
+h2 {
+    font-size: 60px; 
+    line-height: 1.2;
+    font-weight: normal; 
+}
+
+h2 span {
+    font-weight: bold; 
+}
+
+a {
+    color: #99D930; 
+    text-decoration: none; 
+    transition: color 0.3s; 
+}
+
+a:hover {
+    color: #131313; 
+}
+
+p.small {
+    font-size: 16px; 
+}
+
+header {
+    background-color: #D7D7D7; 
+    padding: 100px 0; 
+}
+
+.about-me {
+    background-color: #FFEAEA; 
+    padding: 100px 0; 
+}
+
+.articles {
+    background-color: #EAF9FF; 
+    padding: 100px 0;
+}
